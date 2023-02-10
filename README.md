@@ -1,1 +1,3 @@
-# -IPC1-S12023_Practica1_202004071
+Henry David Quel Santos
+202004071
+Laboratorio de introduccion a la programación y computación Seccion B
